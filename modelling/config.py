@@ -30,7 +30,7 @@ num_workers_dl = 4
 # Params for training
 
 
-# Three classes
+# Three classes (heading, paragraph, footnote) and a 'background' class
 num_classes = 4
 num_epochs = 1  # originally 6; setting to 1 to save processing time
 
