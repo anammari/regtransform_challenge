@@ -3,12 +3,12 @@
 
 ## Objective
 
-* This repo contaims the resource files used to address the [RegTransform take-home challenge](RegTransform take-home challenge).
+* This repo contaims the resource files used to address the [RegTransform take-home challenge](https://chrome-alphabet-530.notion.site/Capture-AI-RegTransform-Take-home-Challenge-71df4f9ff61243c9985db0e990b20a02#941c4129ea87417a820041977645d693).
 
 
 ## Methodology
 
-* The [CRISP-DM](https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview) methodology has been used work on the challenge.
+* The [CRISP-DM](https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview) methodology has been used to work on the challenge.
 
 ![CRISP-DM Process](https://www.ibm.com/docs/en/SS3RA7_sub/modeler_crispdm_ddita/clementine/images/crisp_process.jpg)
 
