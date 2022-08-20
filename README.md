@@ -28,13 +28,15 @@
 
 ## Business Understanding
 
-* This [section](https://chrome-alphabet-530.notion.site/Capture-AI-RegTransform-Take-home-Challenge-71df4f9ff61243c9985db0e990b20a02#f7459fc1af3645bda954906d551da344) has a summary of the business areas that are relevant to the challenege. RegBook is a main product by CUBE which allows our users to manage their inventory of relevant regulations.
+* This [section](https://chrome-alphabet-530.notion.site/Capture-AI-RegTransform-Take-home-Challenge-71df4f9ff61243c9985db0e990b20a02#f7459fc1af3645bda954906d551da344) has a summary of the business areas that are relevant to the challenege. 
 
-* RegBook can also provide interesting signals about regulatory change before it happens. 
+* RegBook is a main product by CUBE which allows users to manage their inventory of relevant regulations.
 
-* For this to happen, a core pre-requisite is to extract content from the documents. As the document structure varies widely, computer vision is the go to technique to extract content out of the RegBook images. 
+* RegBook can also provide interesting signals about regulatory change before it happens.
 
-* The objective of the challenege is to build a Deep Learning model to solve this problem, focusing on three classes: headings, paragraphs and footnotes from the images.
+* For this to occur, a core pre-requisite is to extract content from the documents. As the document structure varies widely, computer vision is the go to technique to extract content out of the RegBook images.
+
+* The objective of the challenege is to build a Deep Learning model to solve the above problem, focusing on extracting the textual content from three *regions* in the document images: headings, paragraphs and footnotes.
 
 
 ## Data Understanding
